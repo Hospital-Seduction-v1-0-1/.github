@@ -2,6 +2,7 @@
 **Hospital Seduction v1.0.1 \[Final]** delivers the complete, mature visual novel experience for PC, combining dark romance, psychological suspense, and adult-themed storytelling. This final version unlocks the full narrative, character interactions, and polished gameplay in a standalone package designed for adult players seeking tension, mystery, and temptation.
 
 ---
+![Hospital Seduction game](https://github.com/user-attachments/assets/2c10cbc5-794f-4fce-83e2-dbb8908c6436)
 
 ## 🎮 What is Hospital Seduction?
 
